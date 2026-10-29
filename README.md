@@ -4,7 +4,7 @@
 
 - **[Mento AI](https://github.com/Rishabh-5071/Mento-AI)**: LLM-powered assistant that helps caregivers of dementia patients with personalized daily routines, alerts and automated scheduling.
 - **[Offline RAG + OCR](https://github.com/Rishabh-5071/RAG-OCR-OFFLINE-LLM)**: Private document Q&A that runs fully on-device with a local LLM and OCR, so no document ever leaves the machine.
-- **[Colour Mixer](https://colour-mixer-iota.vercel.app/)**: Website built for a student founder, from gathering requirements to delivery.
+- **<a href="https://colour-mixer-iota.vercel.app/" target="_blank">Colour Mixer</a>**: Website built for a student founder, from gathering requirements to delivery[cite: 1].
 
 ## Highlights
 
