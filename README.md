@@ -1,6 +1,20 @@
-# 💫 About Me:
-I’m looking to collaborate on Innovative B2B SaaS projects for underserved industries or open-source tools involving Web Scraping (Puppeteer/Cheerio) and Supabase integration.<br><br>I’m looking for help with Deepening my understanding of Server Architecture and optimizing performance for high-scale backend systems.<br><br>I’m currently learning Advanced Data Structures & Algorithms in Java & Python and I also take interest in Finance/Economics. 
+# 💫 Hi, I'm Rishabh 👋
 
+## What I've Built
+
+- **[Mento AI](https://github.com/Rishabh-5071/Mento-AI)**: LLM-powered assistant that helps caregivers of dementia patients with personalized daily routines, alerts and automated scheduling.
+- **[Offline RAG + OCR](https://github.com/Rishabh-5071/RAG-OCR-OFFLINE-LLM)**: Private document Q&A that runs fully on-device with a local LLM and OCR, so no document ever leaves the machine.
+- **[Colour Mixer](https://colour-mixer-iota.vercel.app/)**: Website built for a student founder, from gathering requirements to delivery.
+
+## Highlights
+
+- Cleared Adobe's campus selection process for the Customer Engineering Intern role
+- Top 5 of 100+ teams in the Smart India Hackathon internal round at Amity University
+
+## Currently
+
+- Strengthening Data Structures & Algorithms in Java and Python
+- Going deeper into server architecture and backend performance
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabh__725) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rishabh-dahiya-4579a0374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhdahiya652@gmail.com) 
